@@ -14,8 +14,7 @@ Sometimes is dificult to distinguish the borders (limits of each window) using d
 
 ![yaru-dark-border.png](https://raw.githubusercontent.com/lossurdo/yaru-dark-border/master/yaru-dark-border.png)
 
----
-### Tested on:
+### Tested on
 
 ```
 OS: Ubuntu 18.04 bionic
@@ -28,4 +27,5 @@ Icon Theme: Suru
 Font: Ubuntu 11
 ```
 
+---
 Feel free to contribute.
